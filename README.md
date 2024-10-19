@@ -1,2 +1,2 @@
-# dfgds-s
-ggfgg
+# samp
+Samp launcher
